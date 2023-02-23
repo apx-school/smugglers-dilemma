@@ -7,3 +7,6 @@ Es importante recordar que la tecnología es un campo en constante evolución, y
 
 ## Hipotesis
 En el contexto de la programación, al enfrentarnos a un problema técnico que requiere una solución rápida y conocida, podemos utilizar el Test del Dilema de Smuggler para determinar si es necesario explorar un camino desconocido para obtener un aprendizaje valioso. Para esto, se deben considerar dos aspectos: el valor del aprendizaje y el factor de entretenimiento. Si el aprendizaje es concreto y necesario para la resolución del problema, se debe dedicar tiempo y esfuerzo a explorar nuevas ideas y caminos técnicos, incluso si esto implica un riesgo y una posible demora en la solución del problema. Por otro lado, si el aprendizaje no es esencial y puede considerarse como un simple entretenimiento, se debe optar por la solución rápida y conocida, y evitar desviarse de la tarea principal. La hipótesis plantea que encontrar el equilibrio adecuado entre el valor del aprendizaje y el entretenimiento es clave para tomar la mejor decisión en cada situación.
+
+## Diagrama
+https://app.excalidraw.com/l/9UkQn8VTQ64/5SMukY0vSCU
