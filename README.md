@@ -48,6 +48,9 @@ Es importante tener en cuenta que el objetivo no es descartar nada de nuestra li
 
 En resumen, la experiencia interactiva se centraría en ayudar al usuario a evaluar sus aprendizajes y formar criterios más informados sobre qué temas son realmente importantes para ellos en su vida personal o profesional. Esto se lograría a través de una serie de preguntas concretas y una explicación detallada sobre cada una, junto con la posibilidad de crear una lista personalizada de aprendizajes.
 
+## Translations
+- [English](README_en.md) 
+
 
 ## Diagrama
 https://app.excalidraw.com/l/9UkQn8VTQ64/5SMukY0vSCU
