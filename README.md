@@ -12,7 +12,7 @@ El dilema de smuggler no se trata de decidir si debemos o no aprender algo nuevo
 
 Al responder a estas preguntas, podemos tomar una decisión más informada sobre si aprender un tema o habilidad nueva es la mejor opción en un momento determinado. En última instancia, el dilema de smuggler se trata de encontrar un equilibrio entre la necesidad de aprender cosas nuevas y la capacidad de hacerlo de manera efectiva y significativa.
 
-# Propuesta
+## Propuesta
 Es cierto que siempre vamos a tener una lista de cosas por aprender, ya sea proveniente de nuestra carrera, cursos, recomendaciones de otros o por nuestra propia curiosidad. Esta lista puede resultar abrumadora, especialmente cuando no sabemos por dónde empezar o cómo priorizar nuestros aprendizajes.
 
 El dilema de smuggler ofrece una solución al problema al enseñarnos a diferenciar los aprendizajes valiosos de aquellos que no lo son. En lugar de simplemente determinar si debemos aprender algo o no, es importante evaluar la relevancia y necesidad de cada tema en nuestra lista de aprendizaje.
@@ -23,7 +23,7 @@ Sin embargo, esto no significa que debemos descartar completamente los aprendiza
 
 En última instancia, el dilema de smuggler es un problema de criterio, y aprender a evaluar de manera crítica nuestra lista de aprendizajes puede ayudarnos a tomar decisiones más informadas y significativas sobre lo que realmente necesitamos aprender.
 
-# Test de Smuggler
+## Test de Smuggler
 Es importante tener en cuenta que el objetivo no es descartar nada de nuestra lista, sino priorizar los temas más importantes y entender que muchas veces las preguntas y ansiedades que surgen son generadas por factores externos, como el bombardeo de información en internet. Al evaluar cuidadosamente nuestros aprendizajes, podemos tomar decisiones más informadas y conscientes sobre dónde enfocar nuestro tiempo y esfuerzo de aprendizaje.
 
 - ¿Cómo se relaciona este tema con mis objetivos a largo plazo?
