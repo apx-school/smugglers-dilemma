@@ -37,5 +37,17 @@ Es importante tener en cuenta que el objetivo no es descartar nada de nuestra li
 - ¿Estoy interesado en este tema o simplemente lo siento como una obligación?
 - ¿Qué valor agregado puedo obtener de aprender sobre este tema?
 
+## Propuesta para posible experiencia interactiva
+- Al entrar en la página, el usuario se encontraría con una breve explicación sobre el 
+- Luego, se presentaría una lista de las 10 preguntas concretas que mencionamos 
+- El usuario tendría que responder a cada pregunta utilizando una escala de 1 a 5, donde 
+- Una vez que el usuario responda a todas las preguntas, la página mostraría una 
+- Además, se podría incluir una breve explicación para cada pregunta, que ayude al 
+- Al finalizar el test, se podría ofrecer al usuario la opción de guardar los resultados 
+- También se podría incluir recursos útiles, como enlaces a cursos en línea, libros o 
+
+En resumen, la experiencia interactiva se centraría en ayudar al usuario a evaluar sus aprendizajes y formar criterios más informados sobre qué temas son realmente importantes para ellos en su vida personal o profesional. Esto se lograría a través de una serie de preguntas concretas y una explicación detallada sobre cada una, junto con la posibilidad de crear una lista personalizada de aprendizajes.
+
+
 ## Diagrama
 https://app.excalidraw.com/l/9UkQn8VTQ64/5SMukY0vSCU
