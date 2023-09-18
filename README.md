@@ -1,4 +1,4 @@
-![image](https://github.com/apx-school/smugglers-dilemma/assets/1208547/2b681185-f7c2-4ba2-9358-45bfc402d9ce)
+![image](https://github.com/apx-school/smugglers-dilemma/assets/1208547/897e5d93-7e8c-44ad-8994-3219eefd6b76)
 
 
 # El Dilema de Smuggler
