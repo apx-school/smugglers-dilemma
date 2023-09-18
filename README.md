@@ -1,3 +1,6 @@
+![image](https://github.com/apx-school/smugglers-dilemma/assets/1208547/2b681185-f7c2-4ba2-9358-45bfc402d9ce)
+
+
 # El Dilema de Smuggler
 El dilema de smuggler es un término que describe la dificultad que enfrentamos al decidir si aprender un nuevo tema o habilidad es la mejor opción en un momento determinado. Esto se debe a que, especialmente en el campo de la tecnología, hay una gran cantidad de información que aún no sabemos, y la cantidad de información disponible en línea puede ser abrumadora.
 
